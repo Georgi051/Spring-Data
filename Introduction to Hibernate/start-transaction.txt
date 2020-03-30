@@ -1,0 +1,5 @@
+entityManager.getTransaction().begin();
+
+--query-----
+        
+entityManager.getTransaction().commit();
