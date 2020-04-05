@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0c0e6ef-908f-4879-886d-b7429957c039" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="real_deal_exam_db: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zn5AEgHI9YJiWBJHdU2mtJxuJD" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/softuni/exam/util" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="softuni.exam.constants" />
+      <recent name="softuni.exam.models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jo\Desktop\Real Deal_Skeleton\RealDeal_Skeleton\src\main\java\softuni\exam\util" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ExamApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="exam" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="softuni.exam.ExamApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0c0e6ef-908f-4879-886d-b7429957c039" name="Default Changelist" comment="" />
+      <created>1585461871348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585461871348</updated>
+      <workItem from="1585461877908" duration="21946000" />
+      <workItem from="1585651950663" duration="678000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#Assign_Data_Sources" timestamp="1585498965247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Assign_Data_Sources/0.0.1536.824@0.0.1536.824" timestamp="1585498965247" />
+    <state x="361" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585465685644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585465685644" />
+    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1585473990993">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585473990993" />
+    <state x="566" y="273" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585471749796">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="273" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1585471749796" />
+    <state width="390" height="466" key="DebuggerActiveHint" timestamp="1585501727565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="390" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1585501727565" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1585652772842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585652772842" />
+    <state width="1493" height="365" key="GridCell.Tab.0.bottom" timestamp="1585502608647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="365" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585502608647" />
+    <state width="1493" height="365" key="GridCell.Tab.0.center" timestamp="1585502608647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="365" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585502608647" />
+    <state width="1493" height="365" key="GridCell.Tab.0.left" timestamp="1585502608647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="365" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585502608647" />
+    <state width="1493" height="365" key="GridCell.Tab.0.right" timestamp="1585502608647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="365" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585502608647" />
+    <state width="1493" height="365" key="GridCell.Tab.1.bottom" timestamp="1585502608648">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="365" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585502608648" />
+    <state width="1493" height="365" key="GridCell.Tab.1.center" timestamp="1585502608647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="365" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585502608647" />
+    <state width="1493" height="365" key="GridCell.Tab.1.left" timestamp="1585502608647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="365" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585502608647" />
+    <state width="1493" height="365" key="GridCell.Tab.1.right" timestamp="1585502608647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="365" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585502608647" />
+    <state width="1493" height="286" key="GridCell.Tab.2.bottom" timestamp="1585501728848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="286" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585501728848" />
+    <state width="1493" height="286" key="GridCell.Tab.2.center" timestamp="1585501728848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="286" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1585501728848" />
+    <state width="1493" height="286" key="GridCell.Tab.2.left" timestamp="1585501728848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="286" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1585501728848" />
+    <state width="1493" height="286" key="GridCell.Tab.2.right" timestamp="1585501728848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="286" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1585501728848" />
+    <state width="189" height="457" key="HiddenNamespacesPopup" timestamp="1585502622097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="189" height="457" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1585502622097" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1585462085834">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585462085834" />
+    <state x="602" y="296" width="331" height="236" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1585502535558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="602" y="296" width="331" height="236" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1585502535558" />
+    <state x="540" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585465555310">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1585465555310" />
+  </component>
+</project>
